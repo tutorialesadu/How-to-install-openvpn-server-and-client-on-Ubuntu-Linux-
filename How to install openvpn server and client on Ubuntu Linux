@@ -1,3 +1,6 @@
+
+
+
 1. nano /root/install_openvpn_full.sh //Introduce aceasta comanda si apoi copiaza codul de mai jos, salveaza cu Ctrl+O  enter si Ctrl+X //
 
 #!/bin/bash
@@ -130,4 +133,7 @@ echo "==============================================================="
 
 7. Copiem fisierul cu ajutorul WinSCP pe calculatorul dorit. 
 
-8. La linia remote YOUR_PUBLIC_IP 1194 din client1.ovpn se inlocuieste cu IP-ul nostru public sau privat  dupa caz. 
+8. Accesati si descarcati openvpn client de pe site-ul https://openvpn.net/client/ si instalati pe PC-ul dorit. 
+
+9. La linia remote YOUR_PUBLIC_IP 1194 din client1.ovpn se inlocuieste cu IP-ul nostru public sau privat  dupa caz, apoi incarcati fisierul client1.ovpn in aplicatia openvpn client.
+
