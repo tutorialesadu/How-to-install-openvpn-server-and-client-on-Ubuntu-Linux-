@@ -128,7 +128,7 @@ echo "==============================================================="
 
 6. cp /root/client-configs/client1.ovpn /home/tutorials/client-configs/  // copiază fișierul client1.ovpn în folderul nou creat mai sus //
 
-7. Copiem fisierul cu ajutorul WinSCP pe calculatorul dorit. 
+7. Descarcam si instalam WinSCP de pe site-ul https://winscp.net/eng/download.phpCopiem, apoi copiem fisierul cu ajutorul WinSCP pe calculator. 
 
 8. Accesati si descarcati openvpn client de pe site-ul https://openvpn.net/client/ si instalati pe PC-ul dorit. 
 
